@@ -59,7 +59,7 @@ LightWidget-master/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/LightWidget.git
+   git clone https://github.com/NackBard/LightWidget.git
    ```
 
 2. Open the project in Android Studio and run it on a physical device.
