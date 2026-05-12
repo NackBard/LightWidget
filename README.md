@@ -2,10 +2,6 @@
 
 An Android home screen widget that toggles the device flashlight with a single tap — no need to open any app.
 
-## 📸 Screenshots
-
-> _Add a screenshot of the widget on the home screen here_
-
 ## ✨ Features
 
 - 💡 **One-tap flashlight toggle** directly from the home screen widget
@@ -67,17 +63,6 @@ LightWidget-master/
 3. Long-press your home screen → **Widgets** → find **LightWidget** → drag it to the home screen.
 
 4. Tap the widget to toggle the flashlight on/off.
-
-## 🔮 Roadmap
-
-- [ ] Replace text button with a flashlight icon
-- [ ] Show ON/OFF state visually (color change or icon swap)
-- [ ] Add lock screen widget support
-- [ ] Migrate to Jetpack Glance (modern Compose-based Widget API)
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
